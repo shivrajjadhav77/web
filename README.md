@@ -35,3 +35,4 @@ index.html – Main HTML file
 style.css – Custom CSS styles
 script.js – JavaScript for animations and interactions
 assets/ – Images, icons, and fonts
+
